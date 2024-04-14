@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yanlin Huang
-- 👀 I’m interested in ...
-- 🌱 I’m currently majoring in CS at University of Washington, Seattle Campus
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine Learning and System Programming
+- 🌱 I’m graduating from the University of Washington, with a Computer Science major
+- 💞️ I’m looking to collaborate on innovative ideas to make the world a better place
 - 📫 Reach me at evelynh2022@outlook.com
 
 <!---

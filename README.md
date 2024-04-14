@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yanlin Huang
-- 👀 I’m interested in Machine Learning and System Programming
+- 👀 I’m interested in Machine Learning, System Programming, and Database Management
 - 🌱 I’m graduating from the University of Washington, with a Computer Science major
 - 💞️ I’m looking to collaborate on innovative ideas to make the world a better place
 - 📫 Reach me at evelynh2022@outlook.com
